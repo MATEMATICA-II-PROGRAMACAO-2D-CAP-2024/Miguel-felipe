@@ -7,7 +7,7 @@
    padding: 0 24px;
 }
           .cabecalho-imagem{
-            width: 10%;
+            width: 40%;
           }
      .cabecalho-lista-item{
         display: inline-block;
@@ -24,7 +24,7 @@
         padding: 0 24px;
         }
             .escola-imagem{
-                width: 10%;
+                width: 60%;
             }
         .escola.comteudo{
             width: 35%;
