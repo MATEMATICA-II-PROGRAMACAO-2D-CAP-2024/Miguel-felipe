@@ -26,6 +26,9 @@
             .oi{
                 width: 30%;
             }
+            .li{
+                width: 30%;
+            }
         .escola.comteudo{
             width: 30%;
         }
@@ -35,9 +38,7 @@
         body{
             font-family: 'Poppins',sans-serif;
         }
-        .mi {
-            width: 50%;
-        }
+        
 .estudante-div{
     text-align: center;
 }
@@ -45,4 +46,8 @@
         text-align: center;
         padding: 80px 0;
     }
-    
+    .escola-todos{
+        display: grid;
+grid-template-columns: 20% 20% 20% 20%;
+
+    }
