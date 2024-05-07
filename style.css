@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: #084d6e ;
+    background-color: radial-gradient(circle, rgba(255,0,0,1) 20%, rgba(0,37,252,1) 100%); ;
     color: #ffffff;
     display: flex;
     justify-content: center;
