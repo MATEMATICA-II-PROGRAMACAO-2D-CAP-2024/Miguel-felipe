@@ -2,7 +2,7 @@
 background: repeating-radial-gradient(ellipse farthest-corner at center center, #121FCF 94%, #00FF00 50%, #CF1512 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-    background-color: #f44336;
+    background-color:#0087ff
     display: flex;
     justify-content: center;
     align-items: center;
