@@ -1,13 +1,8 @@
 .cabecalho{
-    background: #121FCF;
 background: repeating-radial-gradient(ellipse farthest-corner at center center, #121FCF 94%, #00FF00 50%, #CF1512 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-    color: #f44336;
-    background-clip: text;
-    -webkit-background-clip: text;
-    text-fill-color: transparent;
-    -webkit-text-fill-color: transparent;
+    background-color: #f44336;
     display: flex;
     justify-content: center;
     align-items: center;
