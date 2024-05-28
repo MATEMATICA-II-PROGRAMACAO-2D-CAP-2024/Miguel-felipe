@@ -1,5 +1,8 @@
 .cabecalho{
-    background-image:background-image: radial-gradient(circle, #650404, #833400, #965f00, #9c8d00, #91bc00, #7fd332, #61e957, #00ff7f, #00ffa7, #00ffc7, #20fee0, #5ffbf1);
+    background: #121FCF;
+background: repeating-radial-gradient(ellipse farthest-corner at center center, #121FCF 94%, #00FF00 50%, #CF1512 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
     color: #f44336;
     background-clip: text;
     -webkit-background-clip: text;
