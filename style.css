@@ -1,4 +1,5 @@
 .cabecalho{
+    color:#00a0ff
     background-color: repeating-radial-gradient(ellipse farthest-corner at center center, #121FCF 94%, #00FF00 50%, #CF1512 100%);
     display: flex;
     justify-content: center;
